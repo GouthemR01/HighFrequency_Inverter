@@ -1,4 +1,4 @@
-# HighFrequency_Inverter
+# HighFrequency_Inverter for Induction Cooker
 This inverter is designed for efficient heating of non-ferromagnetic vessels, ideal for induction cooking applications. Key features include:
 
 - **IR2110:** High and low side driver for efficient switching of MOSFETs.
